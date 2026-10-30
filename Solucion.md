@@ -36,7 +36,7 @@ Debido al límite de créditos de las cuentas educativas, la infraestructura se 
 
 > **Enlaces del video de demostración:**
 > - **Parte 1 (Escalabilidad Vertical):** [https://youtu.be/TLfZ-xAxaf4](https://youtu.be/TLfZ-xAxaf4)
-> - **Parte 2 (Escalabilidad Horizontal):** <!-- Pegar aquí el enlace de la Parte 2 -->
+> - **Parte 2 (Escalabilidad Horizontal):** (https://www.youtube.com/watch?v=wedrkSsUXbg)
 
 Contenido del video:
 1. Recursos creados en Azure (portal) y su función.
